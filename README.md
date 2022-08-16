@@ -4,7 +4,7 @@
 [![Build Status](https://circleci.com/gh/fatedier/frp.svg?style=shield)](https://circleci.com/gh/fatedier/frp)
 [![GitHub release](https://img.shields.io/github/tag/fatedier/frp.svg?label=release)](https://github.com/fatedier/frp/releases)
 
-[README](README.md) | [中文文档](README_zh.md)
+[README](README.md) | [中文文档][如何随时远程开机并控制电脑](README_zh.md)
 
 <h3 align="center">Platinum Sponsors</h3>
 <!--platinum sponsors start-->
